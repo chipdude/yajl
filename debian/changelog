@@ -1,3 +1,9 @@
+yajl (2.0.4-2+ub1) unstable; urgency=low
+
+  * Topsy build for Lucid
+
+ -- Chip Salzenberg <chip@topsy.com>  Mon, 27 Aug 2012 18:56:46 -0700
+
 yajl (2.0.4-2) unstable; urgency=low
 
   * Upload to unstable.
